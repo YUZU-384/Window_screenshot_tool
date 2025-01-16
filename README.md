@@ -28,3 +28,8 @@
 
 ## 联系方式
 如有任何疑问，请发送邮件至 <li-zhao-xin@outlook.com>
+
+---
+
+## 资助作者
+[微信/支付宝/QQ](https://github.com/li-zhao-xin/Window_screenshot_tool/blob/main/%E8%A6%81%E9%A5%AD.BMP)
