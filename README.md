@@ -15,6 +15,9 @@
 ## 使用
 运行应用："main-Window_screenshot_tool-x.x.x.x.e"
 
+## 作用
+你可以使用次工具为yolo获取训练所需的图片
+
 ---
 
 ## 许可可证
