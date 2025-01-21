@@ -24,7 +24,7 @@
 [MIT](https://github.com/li-zhao-xin/Window_screenshot_tool/blob/main/LICENSE.txt)
 
 ## 作者
-* [li-zhao-xin （中国史蒂夫·乔布斯）](https://github.com/li-zhao-xin)(<li-zhao-xin@outlook.com>）
+* [li-zhao-xin （中国史蒂夫·乔布斯）](https://github.com/li-zhao-xin)
 
 ## 鸣谢
 感谢所有提出建议和报告问题的人！
