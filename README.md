@@ -36,3 +36,4 @@
 
 ## 资助作者
 [微信/支付宝/QQ](https://github.com/li-zhao-xin/Window_screenshot_tool/blob/main/%E8%A6%81%E9%A5%AD.BMP)
+[![freecompress.jpg](https://i.postimg.cc/prsq6Q3s/freecompress.jpg)](https://postimg.cc/bS2xGnyn)
