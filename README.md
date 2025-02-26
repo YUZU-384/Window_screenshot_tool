@@ -37,4 +37,5 @@
 ---
 
 ## 资助作者
-[![freecompress.jpg](https://i.postimg.cc/prsq6Q3s/freecompress.jpg)(https://postimg.cc/bS2xGnyn)
+![freecompress.jpg](https://i.postimg.cc/prsq6Q3s/freecompress.jpg)
+[help](https://i.postimg.cc/prsq6Q3s/freecompress.jpg)
