@@ -22,17 +22,17 @@
 
 ---
 
-## 许可可证
-[MIT](https://github.com/YUZU-cuda384/Window_screenshot_tool/blob/main/LICENSE.txt)
-
 ## 作者
 [柚子-cuda384 （YUZU-cuda384）](https://github.com/YUZU-cuda384)
+
+## 开源协议
+[MIT](https://github.com/YUZU-cuda384/Window_screenshot_tool/blob/main/LICENSE.txt)
 
 ## 鸣谢
 感谢所有提出建议和报告问题的人！
 
 ## 联系方式
-如有任何疑问，请发送邮件至 <li-zhao-xin@outlook.com>
+如有疑问，请联系我QQ3399701293 或 发送邮件至 <3399701293@qq.com>
 
 ---
 
