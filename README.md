@@ -23,7 +23,7 @@
 ---
 
 ## 作者
-[柚子-cuda384 （YUZU-cuda384）](https://github.com/YUZU-cuda384)
+[柚子-384 （YUZU-384）](https://github.com/YUZU-384)
 
 ## 开源协议
 [MIT](https://github.com/YUZU-cuda384/Window_screenshot_tool/blob/main/LICENSE.txt)
